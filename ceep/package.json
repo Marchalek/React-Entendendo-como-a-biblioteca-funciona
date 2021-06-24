@@ -1,5 +1,6 @@
 {
   "name": "ceep",
+  "homepage": "http://localhost:3000/Marchalek/React-Entendendo-como-a-biblioteca-funcion",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,6 +44,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marchalek/React-Entendendo-como-a-biblioteca-funciona/issues"
-  },
-  "homepage": "https://github.com/Marchalek/React-Entendendo-como-a-biblioteca-funciona#readme"
+  }
 }
